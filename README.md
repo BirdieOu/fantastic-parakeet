@@ -5,4 +5,4 @@ Card Text: Text Shadow
 
 Demo on Codepen 
 
-<a href="https://codepen.io/WinnieWendinH/full/BadxbbZ">Click Here</a>
+<a href="https://codepen.io/WinnieWendinH/full/BadxbbZ" _blank>Click Here</a>
