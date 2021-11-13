@@ -7,4 +7,4 @@ Demos on Codepen
 
 Demo 1 <a href="https://codepen.io/WinnieWendinH/full/BadxbbZ" target="_blank">Click Here</a>
 
-Demo 2 <a href="https://codepen.io/Wen_H/pen/vYJrzKK">Also Here</a>
+Demo 2 <a href="https://codepen.io/Wen_H/full/vYJrzKK">Also Here</a>
